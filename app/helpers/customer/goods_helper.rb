@@ -1,0 +1,2 @@
+module Customer::GoodsHelper
+end
